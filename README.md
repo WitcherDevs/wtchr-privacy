@@ -1,4 +1,4 @@
--This Privacy Policy has been created to explain and clearly state the purpose of use of the Discord bot known as "WTCHR", the terms of return, the clear notification of the data we collect, how the data we collect is collected.
+This Privacy Policy has been created to explain and clearly state the purpose of use of the Discord bot known as "WTCHR", the terms of return, the clear notification of the data we collect, how the data we collect is collected.
 
 1. To provide services, we need to collect and process certain personal information, including some or all of the following. These;
 - Data provided by Discord. (Username, Profile Photo, etc.)
